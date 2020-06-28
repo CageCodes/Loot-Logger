@@ -5,6 +5,8 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
 
 [<b>Spreadsheet<b/>](https://docs.google.com/spreadsheets/d/1T1JuBNvRfn-sUqTHSyWaO4OTZ80vUaXXcFKaXfjdlq4/edit#gid=0)
 
+#### Make a copy of the spreadsheet
+
 Running the Automator from the menu bar enables the following after selecting an item:
 
 ```Pulls down and writes current pricing```
