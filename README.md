@@ -12,7 +12,8 @@ Running the Automator from the menu bar enables the following after selecting an
 ```Adds new row```
 
 ```Copies formulas from previous row```
-
+#### After authorizing the Automator Script, in the menu bar, click on the tab and run it again to have it take affect.
+* If an item price is not updating, force an update by running the Runescape Price Updater script located on the menu bar
 
 
 
