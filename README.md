@@ -1,13 +1,35 @@
-# raidsplitlog
-<p>A GoogleSheet to track raid splits with realtime pricing from the Grand Exchange.</p>
+# CoX and ToB loot tracker
 
-<p>Make a copy of the spreadsheet.</p>
+Due to the nature of looting and splits in PvM the RuneLite loot tracker is not accurate for drops nor does it store pricing at time of loot.
+We wanted to come up with a solution to this for higher accuracy and eliminating as much manual entry as possible.
 
-<p>Run the <b>Automator Script<b/> and accept permission if asked to do so. All third party scripts require authorization to work.
-  <p>Run the <b><i>Automater Script<b><i/> again.
+Link[Spreasdsheet](https://docs.google.com/spreadsheets/d/1T1JuBNvRfn-sUqTHSyWaO4OTZ80vUaXXcFKaXfjdlq4/edit#gid=0).
 
-<p>If prices are not updating on the prices sheet, run the <b>Runescape Price Updater<b/> to force current G.E. prices.<p/>
+Running the Automator from the menu bar enables the following after selecting an item:
 
-[Link to spreadsheet](https://docs.google.com/spreadsheets/d/1T1JuBNvRfn-sUqTHSyWaO4OTZ80vUaXXcFKaXfjdlq4/edit#gid=0).
+```Pulls down and writes current pricing```
+
+```Adds new row```
+
+```Copies formulas from previous row```
 
 
+
+
+## Powered By
+* [**OSRS Box**](https://www.osrsbox.com/) - Item IDs and Item Icons
+* [**Official Jagex GE**](https://secure.runescape.com/m=itemdb_oldschool/) - Item Prices
+
+
+
+
+## Special thanks to:
+
+* [**Limp Man**](https://twitch.tv/limp_man) - Appscript, Debugging
+* [**Zenyl**](https://reddit.com/u/zenyl) - Price Importing & Updating Script
+
+**This project has absolutely no access to your runelite client, account information and it *does not* report back any information you enter to the creators.**
+
+* **Disclaimer**: I am not affiliated with Jagex Games Ltd. in any way.<br> This script is developed for use with their public APIs. *
+
+####  
