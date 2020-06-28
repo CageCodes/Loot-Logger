@@ -3,7 +3,7 @@
 Due to the nature of looting and splits in PvM the RuneLite loot tracker is not accurate for drops nor does it store pricing at time of loot.
 We wanted to come up with a solution to this for higher accuracy and eliminating as much manual entry as possible.
 
-Link[Spreasdsheet](https://docs.google.com/spreadsheets/d/1T1JuBNvRfn-sUqTHSyWaO4OTZ80vUaXXcFKaXfjdlq4/edit#gid=0).
+[<b>Spreadsheet<b/>](https://docs.google.com/spreadsheets/d/1T1JuBNvRfn-sUqTHSyWaO4OTZ80vUaXXcFKaXfjdlq4/edit#gid=0)
 
 Running the Automator from the menu bar enables the following after selecting an item:
 
