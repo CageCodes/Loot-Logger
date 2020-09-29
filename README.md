@@ -19,13 +19,13 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
 
 
 
-Run the Automator from the menu bar...
+#### Step2: Run the Automator from the menu bar...
 
 ![alt text](https://i.imgur.com/n8GhG6U.png)
 
 
 
-#### Step2: Authorize access for the script to have permission to run on your copy of the spreadsheet
+Authorize access for the script to have permission to run on your copy of the spreadsheet
 
 The script and spreadsheet will not work correclty if you do not authorize the Automator script.
 
