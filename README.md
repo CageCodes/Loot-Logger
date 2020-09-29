@@ -1,4 +1,4 @@
-# CoX and ToB loot tracker
+# Log and track your Uniques with this loot Spreadsheet for Theatre of Blood, Chambers of Xeric, Zulrah and Nightmare...
 
 ![alt text](https://i.imgur.com/7knuZFu.png)
 
