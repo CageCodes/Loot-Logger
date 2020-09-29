@@ -11,6 +11,7 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
  
  
  
+# How to use the spreadsheet
 
 #### Make a copy of the spreadsheet
 
