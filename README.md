@@ -8,6 +8,8 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
 
 #### Make a copy of the spreadsheet
 
+![alt text](https://i.imgur.com/gyc1xtw.png)
+
 Running the Automator from the menu bar enables the following after selecting an item:
 
 ```Pulls down and writes current pricing```
