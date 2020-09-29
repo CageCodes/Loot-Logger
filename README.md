@@ -12,6 +12,8 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
 
 Running the Automator from the menu bar enables the following after selecting an item:
 ![alt text](https://i.imgur.com/n8GhG6U.png)
+
+
 ```Pulls down and writes current pricing```
 
 ```Adds new row```
