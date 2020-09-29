@@ -1,6 +1,5 @@
-# Log and track your Uniques with this loot Spreadsheet for:  
-
-Theatre of Blood, Chambers of Xeric, Zulrah and Nightmare...
+# Log and track your Uniques with this loot Spreadsheet for 
+# Theatre of Blood, Chambers of Xeric, Zulrah and Nightmare...
 
 
 
