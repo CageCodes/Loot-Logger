@@ -5,11 +5,11 @@ Loot Spreadsheet for Theatre of Blood, Chambers of Xeric and Zulrah...
 Due to the nature of looting and splits in PvM the RuneLite loot tracker is not accurate for drops nor does it store pricing at time of loot.
 We wanted to come up with a solution to this for higher accuracy and eliminating as much manual entry as possible.
 
-![alt text](https://i.imgur.com/7knuZFu.png)
+![alt text](https://i.imgur.com/3NSb7ZY.png)
 
-![alt text](https://i.imgur.com/jWfZV1b.png)
+![alt text](https://i.imgur.com/oYkPK5b.png)
 
-
+![alt text](https://i.imgur.com/bhiQszv.png)
 [<b>Spreadsheet<b/>](https://docs.google.com/spreadsheets/d/1T1JuBNvRfn-sUqTHSyWaO4OTZ80vUaXXcFKaXfjdlq4/edit#gid=0)
  
  
@@ -22,7 +22,7 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
 
 
 
-#### Step2: Run the Automator from the menu bar...
+#### Step 2: Run the Automator from the menu bar...
 
 ![alt text](https://i.imgur.com/n8GhG6U.png)
 
@@ -38,7 +38,8 @@ The script and spreadsheet will not work correclty if you do not authorize the A
 ```Copies formulas from previous row```
 
 #### After authorizing the Automator Script, in the menu bar, click on the tab and run it again to have it take affect.
-* If an item price is not updating, force an update by running the Runescape Price Updater script located on the menu bar
+
+Note:  If an item price is not updating, force an update by running the Runescape Price Updater script located on the menu bar
 
 ![alt text](https://i.imgur.com/XVZv9p3.png)
 
