@@ -1,11 +1,14 @@
 # Log and track your Uniques 
 
-Loot Spreadsheet for Theatre of Blood, Chambers of Xeric, Zulrah and Nightmare...
+Loot Spreadsheet for Theatre of Blood, Chambers of Xeric and Zulrah...
 
 Due to the nature of looting and splits in PvM the RuneLite loot tracker is not accurate for drops nor does it store pricing at time of loot.
 We wanted to come up with a solution to this for higher accuracy and eliminating as much manual entry as possible.
 
 ![alt text](https://i.imgur.com/7knuZFu.png)
+
+![alt text](https://i.imgur.com/jWfZV1b.png)
+
 
 [<b>Spreadsheet<b/>](https://docs.google.com/spreadsheets/d/1T1JuBNvRfn-sUqTHSyWaO4OTZ80vUaXXcFKaXfjdlq4/edit#gid=0)
  
