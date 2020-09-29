@@ -13,19 +13,22 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
  
 # How to use the spreadsheet
 
-#### Make a copy of the spreadsheet
+#### Step 1: Make a copy of the spreadsheet
 
 ![alt text](https://i.imgur.com/gyc1xtw.png)
 
-Running the Automator from the menu bar enables the following after selecting an item:
+Run the Automator from the menu bar...
 ![alt text](https://i.imgur.com/n8GhG6U.png)
 
-#### What this does: 
-```Pulls down and writes current pricing```
+Authorize access for the script to have permission to run on your copy of the spreadsheet
 
-```Adds new row```
+The script and spreadsheet will not work correclty if you do not authorize the Automator script.
+
+#### What this does: 
+```Lets the script in the backround add new rows when you add an item```
 
 ```Copies formulas from previous row```
+
 #### After authorizing the Automator Script, in the menu bar, click on the tab and run it again to have it take affect.
 * If an item price is not updating, force an update by running the Runescape Price Updater script located on the menu bar
 
