@@ -11,7 +11,7 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
 ![alt text](https://i.imgur.com/gyc1xtw.png)
 
 Running the Automator from the menu bar enables the following after selecting an item:
-
+![alt text](https://i.imgur.com/n8GhG6U.png)
 ```Pulls down and writes current pricing```
 
 ```Adds new row```
@@ -20,7 +20,7 @@ Running the Automator from the menu bar enables the following after selecting an
 #### After authorizing the Automator Script, in the menu bar, click on the tab and run it again to have it take affect.
 * If an item price is not updating, force an update by running the Runescape Price Updater script located on the menu bar
 
-
+![alt text](https://i.imgur.com/XVZv9p3.png)
 
 ## Powered By
 * [**OSRS Box**](https://www.osrsbox.com/) - Item IDs and Item Icons
