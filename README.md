@@ -47,6 +47,8 @@ Authorize access for the script to have permission to run on your copy of the sp
 
 #### After authorizing the Automator Script, in the menu bar, click on the tab and run it again to have it take affect.
 
+![alt text](https://i.imgur.com/QdWHNNw.png)
+
 Note:  If an item price is not updating, force an update by running the Runescape Price Updater script located on the menu bar
 
 ![alt text](https://i.imgur.com/6Z7ygw8.png)
