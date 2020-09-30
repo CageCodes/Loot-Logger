@@ -37,7 +37,7 @@ Authorize access for the script to have permission to run on your copy of the sp
 
 ![alt text](https://i.imgur.com/P2uFGhs.png)
 
-#### The script and spreadsheet will not work correclty if you do not authorize the Automator script.
+#### The script and spreadsheet will not work correctly if you do not authorize the Automator script.
 
 #### What this does: 
 
