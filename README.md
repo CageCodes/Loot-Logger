@@ -42,7 +42,7 @@ The script and spreadsheet will not work correclty if you do not authorize the A
 
 Note:  If an item price is not updating, force an update by running the Runescape Price Updater script located on the menu bar
 
-![alt text](https://i.imgur.com/XVZv9p3.png)
+![alt text](https://i.imgur.com/6Z7ygw8.png)
 
 ## Powered By
 * [**OSRS Box**](https://www.osrsbox.com/) - Item IDs and Item Icons
