@@ -19,7 +19,7 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
 
 #### Step 1: Make a copy of the spreadsheet
 
-![alt text](https://i.imgur.com/gyc1xtw.png)
+![alt text](https://i.imgur.com/spsNSOc.png)
 
 
 
@@ -31,9 +31,16 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
 
 Authorize access for the script to have permission to run on your copy of the spreadsheet
 
-The script and spreadsheet will not work correclty if you do not authorize the Automator script.
+![alt text](https://i.imgur.com/3DxhMQg.png)
+
+![alt text](https://i.imgur.com/vV9msFJ.png)
+
+![alt text](https://i.imgur.com/P2uFGhs.png)
+
+#### The script and spreadsheet will not work correclty if you do not authorize the Automator script.
 
 #### What this does: 
+
 ```Lets the script in the backround add new rows when you add an item```
 
 ```Copies formulas from previous row```
