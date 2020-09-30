@@ -7,16 +7,16 @@ We wanted to come up with a solution to this for higher accuracy and eliminating
 
 [//]: # "link to the spreadsheet"
 
-(![alt text](https://i.imgur.com/3NSb7ZY.png)
+![alt text](https://i.imgur.com/3NSb7ZY.png)
 
-(![alt text](https://i.imgur.com/oYkPK5b.png)
+![alt text](https://i.imgur.com/oYkPK5b.png)
 
-(![alt text](https://i.imgur.com/bhiQszv.png)
+![alt text](https://i.imgur.com/bhiQszv.png)
 
 
 [//]: # "link to the spreadsheet"
 
-[//]: # ([<b>Spreadsheet<b/>](https://docs.google.com/spreadsheets/d/1PiCZGk03lDeHodVCyLBzJ9BflRxvetrRUPNP__26wsU/edit?usp=sharing))
+[//]: # "[<b>Spreadsheet<b/>](https://docs.google.com/spreadsheets/d/1PiCZGk03lDeHodVCyLBzJ9BflRxvetrRUPNP__26wsU/edit?usp=sharing)"
 
 
  
